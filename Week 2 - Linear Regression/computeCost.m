@@ -14,11 +14,7 @@ J = 0;
 %               You should set J to the cost.
 
 
-H = X * theta;
-error = H-y;
-error_sqr = error.^2;
-J = sum(error_sqr)/(2*m);
-
+J = (1/(2*m)) * sum(power((X*theta - y),2));
 % =========================================================================
 
 end
