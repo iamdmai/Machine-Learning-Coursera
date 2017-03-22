@@ -1,5 +1,5 @@
 # Machine-Learning-Coursera
-Solutions to the Programming Assignments from Andrew Ng Machine Learning Stanford Class 1/7/2017 - 3/9/2017
+Solutions to the Programming Assignments from Andrew Ng Machine Learning Stanford Class 1/7/2017 - 3/26/2017
 
 
 Assignments were completed with GNU Octave, version 3.8.0
